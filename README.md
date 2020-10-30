@@ -17,6 +17,7 @@ Seaborn
 
 ## 文件描述
 Sparkify-zh.ipynb 项目的Notebook文件，可在jupyter notebook中执行，必须安装相应包和数据集mini_sparkify_event_data.json
+Sparkify-zh.html 此项目的Notebook静态HTML文件 
 
 ## 结论
 由于使用的是迷你数据集，可能不能反映真实情况。这里SVM的效果最好，逻辑回归泛化性最好，最重要的特征是点踩数ThumbsDowns
